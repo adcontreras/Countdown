@@ -9,7 +9,7 @@ body{
     place-items: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: linear-gradient(rgba(5,7,12,0.60),rgba(5,7,12,0.60)),
-    url(../countdown/imgs/Adrisyfam-pres-165.jpg);
+    url(imgs/Adrisyfam-pres-165.jpg);
     background-repeat: no-repeat;
     /*background-position: 20% 10%;*/
     background-position: center center;
